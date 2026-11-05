@@ -1,0 +1,8 @@
+{
+  "jetson_url": "http://jetson.local:8765",
+  "hear_every_seconds": 2,
+  "hear_window_seconds": 5,
+  "show_captions": true,
+  "woodcut_levels": 4,
+  "output": "hdmi"
+}
